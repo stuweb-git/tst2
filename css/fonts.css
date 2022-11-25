@@ -1,0 +1,12 @@
+@font-face {
+    font-family: gohar;
+    src: url('../assets/fonts/Gohar-Medium.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: iranyekan;
+    src: url('../assets/fonts/iranyekanwebregular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
